@@ -1,0 +1,12 @@
+<html>
+ <head>
+  <title>Digitando o meu 2º arquivo html</title>
+ </head>
+<body>
+ <P><P ALIGN=CENTER><B>DOCUMENTO HTML SUPER SIMPLES :)</B></P>
+  < B>Nome</B>:Luís Felipe<br>
+    <i>Cidade</i>:Itatiba<br>
+   <u>Curso</u>:HTML Básico<br>
+  <p><B>Muito Legal!</B></p>
+ </body>
+</html>
